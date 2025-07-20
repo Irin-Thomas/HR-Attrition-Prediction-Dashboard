@@ -22,9 +22,9 @@ It was completed as part of my MSc Data Analytics coursework (Semester 1). The g
 
 ## 📂 Project Structure
 - dashboard/ → Power BI .pbix file [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/dashboard/powerbi%20hr%20attrition%20trail.pbix] 
--data/ → Dataset used in the model [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/data/hr%20attrition%20dataset.csv]
--docs/ → Final project report (PDF) [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/docs/HR%20ARTITION.pdf]
--figures/ → Screenshots of the dashboard  [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/figures/HR%20Attrition%20Dataset.png]
+- data/ → Dataset used in the model [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/data/hr%20attrition%20dataset.csv]
+- docs/ → Final project report (PDF) [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/docs/HR%20ARTITION.pdf]
+- figures/ → Screenshots of the dashboard  [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/figures/HR%20Attrition%20Dataset.png]
 
 
 
