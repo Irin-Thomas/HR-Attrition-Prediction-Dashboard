@@ -7,10 +7,10 @@ This project investigates employee attrition within an organization by analyzing
 ---
 
 ## 📂 Project Structure
-- dashboard/ → Power BI .pbix file [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/dashboard/powerbi%20hr%20attrition%20trail.pbix] 
-- data/ → Dataset used in the model [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/data/hr%20attrition%20dataset.csv]
-- docs/ → Final project report (PDF) [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/docs/HR%20ARTITION.pdf]
-- figures/ → Screenshots of the dashboard  [https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/figures/HR%20Attrition%20Dataset.png]
+- [dashboard/ → Power BI .pbix file](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/dashboard/powerbi%20hr%20attrition%20trail.pbix)
+- [data/ → Dataset used in the model](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/data/hr%20attrition%20dataset.csv)
+- [docs/ → Final project report (PDF)](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/docs/HR%20ARTITION.pdf)
+- [figures/ → Screenshots of the dashboard](https://github.com/Irin-Thomas/HR-Attrition-Prediction-Dashboard/blob/main/figures/HR%20Attrition%20Dataset.png)
 
 ---
 
@@ -72,7 +72,7 @@ This project investigates employee attrition within an organization by analyzing
 - Scatter Plot: Age vs Distance from Home
 - Stacked Bar Chart: Attrition by Age Group
 - Matrix: Job Satisfaction across Departments
-- Dashboard link: [Power BI Report](https://app.powerbi.com/groups/me/reports/5da343c9-ac1c-466c-8f49-ee28f1fd20e0)
+- Dashboard link: [Power BI Report](docs)
 
 ---
 
@@ -100,7 +100,7 @@ This project investigates employee attrition within an organization by analyzing
 
 ## 📚 References
 
-Citations and source materials are listed in the final report PDF [`HR_ATTRITION_IRIN.pdf`](report/HR_ATTRITION_IRIN.pdf).
+Citations and source materials are listed in the final report PDF [`HR_ATTRITION_IRIN.pdf`](docs).
 
 ---
 
