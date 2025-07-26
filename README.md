@@ -107,13 +107,9 @@ Citations and source materials are listed in the final report PDF [`HR_ATTRITION
 ## 📬 Contact
 
 **Author**: Irin Mary Thomas  
-**Email**: irt0076@my.londonmet.ac.uk  
-**Student ID**: 23054032
+**Email**: irinthomas0@gmail.com  
 
 
-Author: Irin Mary Thomas
-Email: irt0076@my.londonmet.ac.uk
-Student ID: 23054032
 
 
 
