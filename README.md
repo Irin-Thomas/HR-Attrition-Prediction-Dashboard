@@ -72,7 +72,7 @@ This project investigates employee attrition within an organization by analyzing
 - Scatter Plot: Age vs Distance from Home
 - Stacked Bar Chart: Attrition by Age Group
 - Matrix: Job Satisfaction across Departments
-- Dashboard link: [Power BI Report](docs)
+- Dashboard link: [Power BI Dashboard](https://app.powerbi.com/groups/me/report)
 
 ---
 
